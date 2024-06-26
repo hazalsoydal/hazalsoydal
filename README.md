@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hazalsoydal
 - 🌱 I’m currently learning Python
 - 📫 How to reach me hazalsoydal@gmail.com
-- 😄 Pronouns: she/her
+- 👻 Pronouns: she/her
 
 <!---
 hazalsoydal/hazalsoydal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
