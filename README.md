@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hazalsoydal
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me hazalsoydal@gmail.com
 - 👻 Pronouns: she/her
 
