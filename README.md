@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I’m Hazal</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hazsoydal&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hazalsoydal&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
   <a href="mailto:hazalsoydal@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-hazalsoydal%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/hazal" target="_blank">
+  <a href="https://www.linkedin.com/in/hazalsoydal" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@hazalsoydal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
