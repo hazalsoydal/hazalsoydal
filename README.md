@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I’m Hazal</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=haz-soudal&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hazsoydal&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
@@ -35,7 +35,7 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=haz-soudal&show_icons=true&theme=radical" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hazalsoydal&show_icons=true&theme=radical" />
 </p>
 
 ### 🔥 Most Used Languages
@@ -45,7 +45,7 @@
 
 <!-- Optional: Streaks (isterseniz açın)
 <p>
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=haz-soudal&theme=radical" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=hazalsoydal&theme=radical" />
 </p>
 -->
 
