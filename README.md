@@ -26,7 +26,7 @@
 ---
 
 ### 🧭 About me
-- 👋 Hi, I’m **@hazal**  
+- 👋 Hi, I’m **Hazal**  
 - 🌱 I’m currently learning **Python** & **JavaScript**  
 - 📫 Reach me at **hazalsoydal@gmail.com**  
 - 🔗 LinkedIn: **@hazalsoydal**
