@@ -7,6 +7,15 @@
 
 ---
 
+### 🧭 About me
+- 👋 Hi, I’m **Hazal**  
+- 🌱 Currently learning **Python**, **JavaScript**, and exploring **AI/ML** technologies.
+- ⭐️ I enjoy working in **Agile environments** and I’m enthusiastic about teamwork, continuous improvement, and adaptability.  
+- 📫 Reach me at **hazalsoydal@gmail.com**  
+- 🔗 LinkedIn: **@hazalsoydal**
+
+---
+
 ### 🌱 I’m currently learning
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -33,14 +42,7 @@
 
 ---
 
-### 🧭 About me
-- 👋 Hi, I’m **Hazal**  
-- 🌱 Currently learning **Python**, **JavaScript**, and exploring **AI/ML** technologies.
-- ⭐️ I enjoy working in **Agile environments** and I’m enthusiastic about teamwork, continuous improvement, and adaptability.  
-- 📫 Reach me at **hazalsoydal@gmail.com**  
-- 🔗 LinkedIn: **@hazalsoydal**
 
----
 
 ### 📊 GitHub Stats
 <p>
