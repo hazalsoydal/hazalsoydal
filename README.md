@@ -11,6 +11,9 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+  <img alt="AI/ML" src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
 ### 📫 How to reach me
@@ -27,7 +30,8 @@
 
 ### 🧭 About me
 - 👋 Hi, I’m **Hazal**  
-- 🌱 I’m currently learning **Python** & **JavaScript**  
+- 🌱 Currently learning **Python**, **JavaScript**, and exploring **AI/ML** technologies.
+- ⭐️ I enjoy working in **Agile environments** and I’m enthusiastic about teamwork, continuous improvement, and adaptability.  
 - 📫 Reach me at **hazalsoydal@gmail.com**  
 - 🔗 LinkedIn: **@hazalsoydal**
 
