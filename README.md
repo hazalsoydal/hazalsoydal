@@ -7,7 +7,7 @@
 
 ---
 
-### 🧭 About me
+### About me
 - 👋 Hi, I’m **Hazal**  
 - 🌱 Currently learning **Python**, **JavaScript**, and exploring **AI/ML** technologies.
 - ⭐️ I enjoy working in **Agile environments** and I’m enthusiastic about teamwork, continuous improvement, and adaptability.  
